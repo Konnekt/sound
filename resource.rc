@@ -1,0 +1,39 @@
+//Microsoft Developer Studio generated resource script.
+//
+
+#include "resource.h"
+
+IDI_SND                 ICON    DISCARDABLE     "logo.ico"
+IDI_SNDMUTE             ICON    DISCARDABLE     "mute.ico"
+play					ICON    DISCARDABLE     "play.ico"
+
+
+1 VERSIONINFO
+FILEVERSION 1,4,0,0
+PRODUCTVERSION 0,6,0,0
+FILEOS 0x4
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "041504E2"
+	{
+		VALUE "CompanyName", "Stamina"
+		VALUE "FileDescription", "Obs³uga dŸwiêków"
+		VALUE "FileVersion", "1.4.0"
+		VALUE "InternalName", "kSound"
+		VALUE "LegalCopyright", "(c)2003, 2004, 2005 Stamina"
+		VALUE "LegalTrademarks", ""
+		VALUE "OriginalFilename", ""
+		VALUE "ProductName", "Konnekt"
+		VALUE "ProductVersion", "0.6"
+		VALUE "Comments", ""
+		VALUE "URL", "http://www.konnekt.info/"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0415 0x04E2
+}
+}
